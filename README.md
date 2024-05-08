@@ -1,5 +1,8 @@
 # Analytical Bank CRM Capstone Project
 
+![image](https://github.com/kwtasneem/Sql-Bank-Analystical-CRM-Project/assets/153414088/63b4cb31-a037-42a8-98f5-ca81a2dc2d55)
+
+
 ## Overview
 
 This capstone project focuses on analyzing customer-related datasets provided by a bank to extract meaningful insights and improve customer relationship management (CRM) strategies. The project aims to reduce customer churn, enhance service delivery, and improve customer satisfaction through data-driven insights.
