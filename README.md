@@ -1,6 +1,8 @@
 # Analytical Bank CRM Capstone Project
 
 ![image](https://github.com/kwtasneem/Sql-Bank-Analystical-CRM-Project/assets/153414088/89fbcd55-4fe0-497f-9f0b-a2f4f2b4c430)
+
+
 ![image](https://github.com/kwtasneem/Sql-Bank-Analystical-CRM-Project/assets/153414088/63b4cb31-a037-42a8-98f5-ca81a2dc2d55)
 
 
